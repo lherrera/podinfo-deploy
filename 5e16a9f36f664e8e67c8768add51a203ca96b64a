@@ -1,0 +1,1 @@
+{"jobID":"16a53159-44a7-6f91-1cb1-1193ae332c84","spec":{"type":"policy","cause":{"Message":"","User":"Luis Herrera \u003clherrera@pivotal.io\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
